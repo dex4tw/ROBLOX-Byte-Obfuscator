@@ -1,4 +1,5 @@
 # ROBLOX-Byte-Obfuscator
+for educational purposes... obviously
 a trashy obfuscator using string.byte - don't use this
 
 # How does it work?
